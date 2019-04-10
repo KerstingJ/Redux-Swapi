@@ -25,3 +25,6 @@ export const actionCreator = () => dispatch => {
             dispatch({type: FETCHING_CHARACTERS_FAILURE, payload: "You Done Fricked Up!\nwell probably just bad internet tbh\nWe couldnt get the list"})
         })
 }
+
+
+// i forgot to branch at the beginning so i needed the files to be different so i could push and commit to make a pulllll request an that why i have this comment hereeeee
